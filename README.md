@@ -1,60 +1,26 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# FCC Test Suite Template
 
-# Project Name
+# Project review
+**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+> Learn project review at Microverse Bootcamp
 
 ### Setup
+- Linters
+
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Node dependencies
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@Obote](https://github.com/Obote)
+- Twitter: [@Obote_denis](https://twitter.com/Obote_denis)
+- LinkedIn: [Obote Denis](https://www.linkedin.com/in/obote-denis-9859a2a3/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -68,9 +34,10 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
+- Thanks to @leonardoeng13 for allowing me review his work
 - etc
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
